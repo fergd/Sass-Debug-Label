@@ -13,4 +13,4 @@ A simple debug tool I use when designing my web pages. Helps me keep track of wh
 		padding: 0.25em;
 		background-color: $debug-bg-color;
 	}
-}```
+}
